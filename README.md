@@ -82,9 +82,7 @@ A full-featured GitHub clone built to understand and replicate the core function
 - **Currently Learning:**  
   - Advanced cybersecurity techniques
   - Modern C++ standards (C++17/20)
-  - Rust for systems programming
-  - Cloud-native development with Docker
-
+  
 - **Certifications:**  
   - Linux Essentials (in progress)
   - Coursera: Python for Everybody
@@ -93,8 +91,8 @@ A full-featured GitHub clone built to understand and replicate the core function
 
 ## 📫 Contact & Connect
 
-- **LinkedIn:** [linkedin.com/in/hardik-quantum-cybernetic](https://www.linkedin.com/in/hardik-quantum-cybernetic)
-- **Email:** hardik.quantum.cybernetic@gmail.com
+- **LinkedIn:** [my linked in profile]([https://www.linkedin.com/in/hardik-quantum-cybernetic](https://www.linkedin.com/in/hardik-jadhav-500b48301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- **Email:** hardikjadhav307@gmail.com
 - **Personal Website:** [hardikdev.tech](https://hardikdev.tech)
 
 ---
@@ -107,7 +105,3 @@ Feel free to explore my projects, suggest improvements, or open issues. I'm alwa
 
 ---
 
-> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=HardikQuantumCybernetic&color=blue)](https://github.com/HardikQuantumCybernetic)
-[![GitHub followers](https://img.shields.io/github/followers/HardikQuantumCybernetic?label=Follow&style=social)](https://github.com/HardikQuantumCybernetic)
