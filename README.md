@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about designing robust, efficient, and secure solutions in both software development and the ever-evolving world of cybertechnology. With a strong foundation in programming and a deep interest in system-level computing, I thrive in Linux-based environments and enjoy building things that make an impact.
 
----
+--- 
 
 ## 🚀 Technologies & Skills
 
