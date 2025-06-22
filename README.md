@@ -91,7 +91,8 @@ A full-featured GitHub clone built to understand and replicate the core function
 
 ## 📫 Contact & Connect
 
-- **LinkedIn:** [my linked in profile]([https://www.linkedin.com/in/hardik-quantum-cybernetic](https://www.linkedin.com/in/hardik-jadhav-500b48301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- **LinkedIn:** [Hardik Jadhav](https://www.linkedin.com/in/hardik-jadhav-500b48301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Instagram:** [@i_m_the_hardik_](https://www.instagram.com/i_m_the_hardik_/?igsh=MTcyczZhMnlmMGlkeA%3D%3D&utm_source=ig_contact_invite#)
 - **Email:** hardikjadhav307@gmail.com
 - **Personal Website:** [hardikdev.tech](https://hardikdev.tech)
 
