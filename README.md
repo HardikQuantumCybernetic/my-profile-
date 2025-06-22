@@ -7,16 +7,37 @@ Welcome to my GitHub profile! I'm passionate about designing robust, efficient, 
 ## 🚀 Technologies & Skills
 
 - **Programming Languages:**  
-  `C`, `C++`, `Python`, `Java`, `SQL`, `HTML`, `CSS`
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 - **Web Technologies:**  
-  HTML5, CSS3, JavaScript (familiar), Responsive Web Design
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+ 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  Responsive Web Design
 
 - **Databases:**  
-  MySQL, SQLite
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 - **Tools & Frameworks:**  
-  Git & GitHub, Bash, VSCode, Linux (Ubuntu, Arch), Makefile, GCC, GDB
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
+ - **Cloud & DevOps:**  
+still learning
 
 - **Other Skills:**  
   Cybersecurity Fundamentals, Network Protocols, Shell Scripting, OOP, Data Structures & Algorithms
@@ -61,6 +82,7 @@ A full-featured GitHub clone built to understand and replicate the core function
 - **Currently Learning:**  
   - Advanced cybersecurity techniques
   - Modern C++ standards (C++17/20)
+  - Rust for systems programming
   - Cloud-native development with Docker
 
 - **Certifications:**  
@@ -84,3 +106,8 @@ Feel free to explore my projects, suggest improvements, or open issues. I'm alwa
 > ⭐️ _If you find my work interesting, don't forget to star your favorite repositories!_
 
 ---
+
+> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=HardikQuantumCybernetic&color=blue)](https://github.com/HardikQuantumCybernetic)
+[![GitHub followers](https://img.shields.io/github/followers/HardikQuantumCybernetic?label=Follow&style=social)](https://github.com/HardikQuantumCybernetic)
