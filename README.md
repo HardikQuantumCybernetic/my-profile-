@@ -46,16 +46,7 @@ still learning
 
 ## 📂 Notable Projects
 
-### [GitHub Clone](https://github.com/HardikQuantumCybernetic/github-clone)
-A full-featured GitHub clone built to understand and replicate the core functionalities of the GitHub platform.  
-**Features:**
-- User authentication and authorization
-- Repository management (create, fork, star, delete)
-- Issue tracking and pull requests
-- Markdown rendering for README files
-- Responsive and intuitive UI
 
-<sub>*This project demonstrates my ability to architect complex applications, implement secure authentication, and design scalable systems.*</sub>
 
 ---
 
