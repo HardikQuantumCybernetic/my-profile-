@@ -87,6 +87,27 @@ still learning
 - **Email:** hardikjadhav307@gmail.com
 - **Personal Website:** [hardikdev.tech](https://hardikdev.tech)
 
+  
+## 📈 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardikquantumcybernetic&show_icons=true&locale=en&layout=compact" alt="hardikquantumcybernetic" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hardikquantumcybernetic&show_icons=true&locale=en" alt="hardikquantumcybernetic" />
+</p>
+
+---
+
+## ☕ Support
+
+<p>
+  <a href="https://www.buymeacoffee.com/hi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hi" /></a>
+</p>
+<br><br>
+
+
 ---
 
 ## 🚀 Let's Collaborate!
