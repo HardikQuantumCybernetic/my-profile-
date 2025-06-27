@@ -39,46 +39,6 @@ Welcome to my GitHub profile! I'm passionate about designing robust, efficient, 
  - **Cloud & DevOps:**  
 still learning
 
-- **Other Skills:**  
-  Cybersecurity Fundamentals, Network Protocols, Shell Scripting, OOP, Data Structures & Algorithms
-
----
-
-## 📂 Notable Projects
-
-
-
----
-
-### Other Cybertechnology Projects
-
-- **Network Security Toolkit:**  
-  A toolkit of custom scripts and utilities for network scanning, traffic analysis, and vulnerability assessment on Linux systems.
-
-- **Secure File Transfer Utility:**  
-  A C/C++ based application for encrypted file transfers over local networks, focusing on performance and security.
-
----
-
-## 🤝 Contributions & Community
-
-- Contributor to open-source projects in the areas of networking, security, and developer tools.
-- Active participant in tech forums and Linux user groups, sharing knowledge and helping troubleshoot issues.
-- Occasional mentor for students and peers in C/C++ and Python programming.
-
----
-
-## 📚 Learning & Development
-
-- **Currently Learning:**  
-  - Advanced cybersecurity techniques
-  - Modern C++ standards (C++17/20)
-  
-- **Certifications:**  
-  - Linux Essentials (in progress)
-  - Coursera: Python for Everybody
-
----
 
 ## 📫 Contact & Connect
 
